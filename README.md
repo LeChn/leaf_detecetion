@@ -9,6 +9,7 @@ pip install ultralytics
 # Step 2 Upload images
 Put images to eval under `test/leaf/`
 
+
 # Step 3 Run eval
 ```
 python eval.py
@@ -16,3 +17,5 @@ python eval.py
 
 # Step 4 View result images
 View result images to eval under `runs/detect/predict/`
+
+![Detected leaf](runs/detect/predict/tree_leaves.png)
