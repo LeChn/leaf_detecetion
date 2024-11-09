@@ -18,4 +18,4 @@ python eval.py
 # Step 4 View result images
 View result images to eval under `runs/detect/predict/`
 
-![Detected leaf](runs/detect/predict/tree_leaves.png)
+![Detected leaf](runs/detect/predict/tree_leaves.jpg)
