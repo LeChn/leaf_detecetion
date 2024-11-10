@@ -1,0 +1,10 @@
+image_name,num_boxes
+TEST_001.jpg,85
+TEST_002.jpg,75
+TEST_003.jpg,15
+TEST_004.jpg,74
+TEST_005.jpg,89
+TEST_006.jpg,4
+TEST_007.jpg,29
+leaf.png,13
+tree_leaves.png,13
