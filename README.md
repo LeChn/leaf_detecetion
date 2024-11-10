@@ -3,7 +3,7 @@
 # Step 1 Environment Setup
 Only dependency is 
 ```
-pip install ultralytics
+pip3 install ultralytics
 ```
 
 # Step 2 Upload images
@@ -12,7 +12,7 @@ Put images to eval under `test/leaf/`
 
 # Step 3 Run eval
 ```
-> python eval.py
+python3 eval.py
 ```
 
 ```
