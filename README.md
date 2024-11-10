@@ -3,7 +3,7 @@
 # Step 1 Environment Setup
 Only dependency is 
 ```
-pip3 install ultralytics
+python3 -m pip install ultralytics
 ```
 
 # Step 2 Upload images
